@@ -22,3 +22,7 @@ Run 'python manage.py runserver' on the Backend-wanderer git file first. (Make s
 Frontend: **React.JS** <br>
 Backend: **Django** <br>
 Database: **Sqlite** <br>
+
+## Documentation
+Documents: Found in 
+Demo Video: https://youtu.be/x5ggTytjw38
