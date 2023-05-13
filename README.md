@@ -19,6 +19,6 @@ Before testing this git file, proceed to https://github.com/AryanSethi20/Backend
 Run 'python manage.py runserver' on the Backend-wanderer git file first. (Make sure you have the relevant Django libraries installed) <br>
 
 ## Languages
-Frontend: **React.JS**
-Backend: **Django**
-Database: **Sqlite**
+Frontend: **React.JS** <br>
+Backend: **Django** <br>
+Database: **Sqlite** <br>
