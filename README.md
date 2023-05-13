@@ -24,5 +24,5 @@ Backend: **Django** <br>
 Database: **Sqlite** <br>
 
 ## Documentation
-Documents: Found in 
+Documents: Found in https://github.com/dannweeeee/Wanderful <br>
 Demo Video: https://youtu.be/x5ggTytjw38
