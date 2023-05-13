@@ -14,7 +14,7 @@ This repository contains the frontend code of WanderfulSG. <br>
 <br>
 <br>Once you have these installed, enter 'npm run dev' to test the program. <br>
 Before testing this git file, proceed to https://github.com/AryanSethi20/Backend-wanderer to download the Django backend. <br>
-Run 'python manage.py runserver' on the Backend-wanderer git file first. (Make sure you have the relevant Django libraries installed) <br>
+Run 'python manage.py runserver' on the Backend-wanderer git file first. (Make sure you have the relevant Django libraries installed)
 
 ## Languages
 Frontend: **React.JS**
