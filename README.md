@@ -1,4 +1,4 @@
-# SC2006 Project: Software Engineering (Wanderful - Frontend)
+# SC2006 Project: Software Engineering (Wanderful)
 ![MainMenuPage](https://github.com/dannweeeee/Wanderful/assets/42776950/d92cfdb2-b4e4-471b-b7cb-aa24b947a33d) <br>
 ## Built a React-Django Fullstack Website (Frontend)
 With the Wanderful web application, drivers can set up carpooling trips that passengers can book, while passengers can search for carpooling opportunities. By checking out the rides available from drivers in their chosen starting area, users can travel around Singapore more efficiently. <br>
